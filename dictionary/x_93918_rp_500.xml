@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="500" max_length="40" name="x_93918_rp_500" type="collection"/>
+</database>

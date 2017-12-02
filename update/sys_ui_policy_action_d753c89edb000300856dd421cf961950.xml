@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>status</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-21 02:15:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d753c89edb000300856dd421cf961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>status</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_93918_rp">1fdebffcdb000300856dd421cf9619ad</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rotten Potatoes">1fdebffcdb000300856dd421cf9619ad</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d753c89edb000300856dd421cf961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-21 02:15:17</sys_updated_on>
+        <table>x_93918_rp_reviews</table>
+        <ui_policy display_value="Read Only">b8e28c5edb000300856dd421cf9619f6</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

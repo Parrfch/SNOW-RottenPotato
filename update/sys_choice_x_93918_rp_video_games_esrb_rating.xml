@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="esrb_rating" table="x_93918_rp_video_games" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>mp</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:43:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efacc8c9db400300856dd421cf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:43:10</sys_updated_on>
+            <value>mp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>n_a</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:43:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbacc8c9db400300856dd421cf96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:43:10</sys_updated_on>
+            <value>n_a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:01:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63d284c1db400300856dd421cf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:01:05</sys_updated_on>
+            <value>n-a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KA</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:01:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5238081db400300856dd421cf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:01:32</sys_updated_on>
+            <value>ka</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:02:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac4388c1db400300856dd421cf9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:02:01</sys_updated_on>
+            <value>e</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>T</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:02:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>165388c1db400300856dd421cf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:02:24</sys_updated_on>
+            <value>t</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>M</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:02:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e97388c1db400300856dd421cf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:02:53</sys_updated_on>
+            <value>M</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RP</label>
+            <language>en</language>
+            <name>x_93918_rp_video_games</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:03:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db834481db400300856dd421cf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:03:17</sys_updated_on>
+            <value>rp</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esrb_rating</element>
+            <name>x_93918_rp_video_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-17 05:01:05</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8703cc81db400300856dd421cf961917</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_name>esrb_rating</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_93918_rp">1fdebffcdb000300856dd421cf9619ad</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rotten Potatoes">1fdebffcdb000300856dd421cf9619ad</sys_scope>
+            <sys_update_name>sys_choice_x_93918_rp_video_games_esrb_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-17 05:43:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
